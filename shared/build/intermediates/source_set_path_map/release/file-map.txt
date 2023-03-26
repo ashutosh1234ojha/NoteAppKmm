@@ -1,0 +1,10 @@
+com.example.noteappkmm.shared-pngs-0 /Users/ashutoshojha/Documents/NoteAppKMM/shared/build/generated/res/pngs/release
+com.example.noteappkmm.shared-resValues-1 /Users/ashutoshojha/Documents/NoteAppKMM/shared/build/generated/res/resValues/release
+com.example.noteappkmm.shared-rs-2 /Users/ashutoshojha/Documents/NoteAppKMM/shared/build/generated/res/rs/release
+com.example.noteappkmm.shared-mergeReleaseResources-3 /Users/ashutoshojha/Documents/NoteAppKMM/shared/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.noteappkmm.shared-mergeReleaseResources-4 /Users/ashutoshojha/Documents/NoteAppKMM/shared/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.noteappkmm.shared-merged_res-5 /Users/ashutoshojha/Documents/NoteAppKMM/shared/build/intermediates/merged_res/release
+com.example.noteappkmm.shared-androidMain-6 /Users/ashutoshojha/Documents/NoteAppKMM/shared/src/androidMain/res
+com.example.noteappkmm.shared-androidRelease-7 /Users/ashutoshojha/Documents/NoteAppKMM/shared/src/androidRelease/res
+com.example.noteappkmm.shared-main-8 /Users/ashutoshojha/Documents/NoteAppKMM/shared/src/main/res
+com.example.noteappkmm.shared-release-9 /Users/ashutoshojha/Documents/NoteAppKMM/shared/src/release/res

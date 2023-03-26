@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7027342742035550581.xml:2:13-3:51
+INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7027342742035550581.xml:2:13-3:51
+INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7027342742035550581.xml:2:13-3:51
+	package
+		ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7027342742035550581.xml:3:16-48
+		INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7027342742035550581.xml
+		INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7027342742035550581.xml
+	xmlns:android
+		ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7027342742035550581.xml:2:23-81
+uses-sdk
+INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7027342742035550581.xml reason: use-sdk injection requested
+INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7027342742035550581.xml
+INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7027342742035550581.xml
+INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7027342742035550581.xml
+INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7027342742035550581.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7027342742035550581.xml
+		ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7027342742035550581.xml
+		INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7027342742035550581.xml
+	android:minSdkVersion
+		INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7027342742035550581.xml
+		ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7027342742035550581.xml
+		INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7027342742035550581.xml

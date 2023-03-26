@@ -1,0 +1,11 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.noteappkmm" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->/Users/ashutoshojha/Documents/NoteAppKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1923832618007531201.xml
+7        android:targetSdkVersion="33" />
+7-->/Users/ashutoshojha/Documents/NoteAppKMM/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1923832618007531201.xml
+8
+9</manifest>

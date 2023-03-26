@@ -1,0 +1,3 @@
+-keep class j$.time.Month {
+    java.lang.String name();
+}
