@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
-INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
-INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
-INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:2:1-18:12
 MERGED from [:shared] /Users/ashutoshojha/Documents/NoteAppKmm/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [com.squareup.sqldelight:android-driver:1.5.3] /Users/ashutoshojha/.gradle/caches/transforms-3/1946de23990f546c2f0c220b75aee1b0/transformed/android-driver-1.5.3/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.ui:ui-tooling:1.3.1] /Users/ashutoshojha/.gradle/caches/transforms-3/7589b5111e293f4635413bc5a035f771/transformed/ui-tooling-1.3.1/AndroidManifest.xml:17:1-28:12
@@ -62,25 +62,25 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ashutoshojha/.gradle/
 MERGED from [androidx.compose.ui:ui-util:1.3.1] /Users/ashutoshojha/.gradle/caches/transforms-3/d5106a134e3a4f5e392b9dde63ebc516/transformed/ui-util-1.3.1/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.dagger:dagger-lint-aar:2.42] /Users/ashutoshojha/.gradle/caches/transforms-3/42ef92a163ec114ff532a150ae496fbc/transformed/dagger-lint-aar-2.42/AndroidManifest.xml:16:1-19:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ashutoshojha/.gradle/caches/transforms-3/a33fdf53d29a68d37ec59ddfff5475c9/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
-INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
-INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:2:1-18:12
 	package
 		INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml
-		ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+		ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:2:1-18:12
 		INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml
-		ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+		ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:2:1-18:12
 		INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml
-		ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+		ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:2:1-18:12
 		INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:4:5-16:19
+ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:4:5-17:19
 MERGED from [androidx.compose.ui:ui-tooling:1.3.1] /Users/ashutoshojha/.gradle/caches/transforms-3/7589b5111e293f4635413bc5a035f771/transformed/ui-tooling-1.3.1/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.compose.ui:ui-tooling:1.3.1] /Users/ashutoshojha/.gradle/caches/transforms-3/7589b5111e293f4635413bc5a035f771/transformed/ui-tooling-1.3.1/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/ashutoshojha/.gradle/caches/transforms-3/5f107b229180b662a08aa0ba2f75c419/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
@@ -98,23 +98,25 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ashu
 	android:allowBackup
 		ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:5:9-36
 	android:theme
-		ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:7:9-40
+		ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:8:9-40
+	android:name
+		ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:7:9-32
 activity#com.example.noteappkmm.android.MainActivity
-ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:8:9-15:20
+ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:9:9-16:20
 	android:exported
-		ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:10:13-36
+		ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:11:13-36
 	android:name
-		ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:9:13-41
+		ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:10:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:11:13-14:29
+ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:12:13-15:29
 action#android.intent.action.MAIN
-ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:12:17-69
+ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:13:17-69
 	android:name
-		ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:12:25-66
+		ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:13:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:13:17-77
+ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:14:17-77
 	android:name
-		ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:13:27-74
+		ADDED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml:14:27-74
 uses-sdk
 INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/ashutoshojha/Documents/NoteAppKmm/androidApp/src/main/AndroidManifest.xml
